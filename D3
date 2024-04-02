@@ -1,0 +1,17 @@
+# LIST IN PYTHON
+list = [1.2,2.2,3.3,4.4,5]
+print (list)
+print(type(list))
+print(list[0])#print 0th index 
+print(list[2])# print 2nd index 
+print(len(list))#length of list 
+
+# we can store element diff. type together 
+student=["krishna",98,19,"python"]
+print(student)
+# string are immutebal(not can chane ) in python
+# list are mutable in python 
+str="hello"
+(str[0])
+str[0]="y"   #this  is  not supportive cusz string can not  chanhe
+
